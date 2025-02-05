@@ -5,7 +5,7 @@ Full-service server protection and testing We offer a full range of services for
 Testing server performance and firewall strength to deal with external attacks Accepting penetration testing
 
 Vulnerability Assessment (Server)
-Checking the vulnerability of the server system to reduce the risk of being attacked Starting at 5,000 baht Accepting attack resource allocation
+Checking the vulnerability of the server system to reduce the risk of being attacked Accepting resource allocation for attack
 
 Allocating Spoofed IP, Scanbot or VPS for DDoS to test server readiness Accepting protection against Packet Exploit and website attacks (Layer4 & Layer7)
 
